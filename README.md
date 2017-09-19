@@ -6,3 +6,4 @@ Para poder compilar el fichero LaTex se deben obtener primero los ficheros de es
 ## Referencias
 https://www.incibe.es/protege-tu-empresa/herramientas/servicio-antiransomware  
 https://security.berkeley.edu/faq/ransomware/what-possible-impact-ransomware
+https://github.com/ElevenPaths/Telefonica-WannaCry-FileRestorer
