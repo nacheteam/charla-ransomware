@@ -7,5 +7,7 @@ Esta charla no es 100% reproducible, ya que no puedo subir la muestra de wannacr
 
 ## Referencias
 https://www.incibe.es/protege-tu-empresa/herramientas/servicio-antiransomware  
-https://security.berkeley.edu/faq/ransomware/what-possible-impact-ransomware
-https://github.com/ElevenPaths/Telefonica-WannaCry-FileRestorer
+https://security.berkeley.edu/faq/ransomware/what-possible-impact-ransomware  
+https://github.com/ElevenPaths/Telefonica-WannaCry-FileRestorer  
+https://threatpost.com/metadata-analysis-draws-its-own-conclusions-on-wannacry-authors/126287/  
+https://en.wikipedia.org/wiki/WannaCry_ransomware_attack#Affected_organizations  
