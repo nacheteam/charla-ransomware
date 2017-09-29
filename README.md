@@ -12,3 +12,4 @@ https://github.com/ElevenPaths/Telefonica-WannaCry-FileRestorer
 https://threatpost.com/metadata-analysis-draws-its-own-conclusions-on-wannacry-authors/126287/  
 https://en.wikipedia.org/wiki/WannaCry_ransomware_attack#Affected_organizations  
 http://blog.elevenpaths.com/2017/05/telefonica-wannacry-file-restorer-como.html  
+https://github.com/ElevenPaths/Telefonica-WannaCry-FileRestorer
