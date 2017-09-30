@@ -6,7 +6,7 @@
 - Enseñar la carpeta temporal de Windows con el script de Telefónica.
 - Cambiar la execution policy:  
    ```ps1
-      Set-ExecutionPolicy -ExecutionPolicy RemoteSigned.
+      Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
    ```
 - Ejecutar Wannacry.  
 - Ver que los archivos se han encriptado.
