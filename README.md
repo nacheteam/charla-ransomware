@@ -6,10 +6,15 @@ Para poder compilar el fichero LaTex se deben obtener primero los ficheros de es
 Esta charla no es 100% reproducible, ya que no puedo subir la muestra de wannacry para que todo el mundo pruebe e interaccione con ella. Si lo hiciera vulneraría las [condiciones de uso](https://help.github.com/articles/github-terms-of-service/#c-acceptable-use) de GitHub.
 
 ## Referencias
+
+### Webs
 https://www.incibe.es/protege-tu-empresa/herramientas/servicio-antiransomware  
 https://security.berkeley.edu/faq/ransomware/what-possible-impact-ransomware  
 https://github.com/ElevenPaths/Telefonica-WannaCry-FileRestorer  
 https://threatpost.com/metadata-analysis-draws-its-own-conclusions-on-wannacry-authors/126287/  
 https://en.wikipedia.org/wiki/WannaCry_ransomware_attack#Affected_organizations  
 http://blog.elevenpaths.com/2017/05/telefonica-wannacry-file-restorer-como.html  
-https://github.com/ElevenPaths/Telefonica-WannaCry-FileRestorer
+https://github.com/ElevenPaths/Telefonica-WannaCry-FileRestorer  
+
+### Libros
+https://www.packtpub.com/hardware-and-creative/cuckoo-malware-analysis
