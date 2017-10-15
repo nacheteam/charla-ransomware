@@ -23,3 +23,4 @@ https://www.packtpub.com/hardware-and-creative/cuckoo-malware-analysis
 ### Charlas
 https://www.youtube.com/watch?v=88jkB1V6N9w  
 https://www.youtube.com/watch?v=aAH1090QuN0
+https://www.youtube.com/watch?v=pLluFxHrc30  
