@@ -15,6 +15,7 @@ https://threatpost.com/metadata-analysis-draws-its-own-conclusions-on-wannacry-a
 https://en.wikipedia.org/wiki/WannaCry_ransomware_attack#Affected_organizations  
 http://blog.elevenpaths.com/2017/05/telefonica-wannacry-file-restorer-como.html  
 https://github.com/ElevenPaths/Telefonica-WannaCry-FileRestorer  
+https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html  
 
 ### Libros
 https://www.packtpub.com/hardware-and-creative/cuckoo-malware-analysis
