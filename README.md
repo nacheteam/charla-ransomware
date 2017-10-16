@@ -16,6 +16,7 @@ https://en.wikipedia.org/wiki/WannaCry_ransomware_attack#Affected_organizations
 http://blog.elevenpaths.com/2017/05/telefonica-wannacry-file-restorer-como.html  
 https://github.com/ElevenPaths/Telefonica-WannaCry-FileRestorer  
 https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html  
+https://www.fireeye.com/blog/threat-research/2017/05/smb-exploited-wannacry-use-of-eternalblue.html  
 
 ### Libros
 https://www.packtpub.com/hardware-and-creative/cuckoo-malware-analysis
