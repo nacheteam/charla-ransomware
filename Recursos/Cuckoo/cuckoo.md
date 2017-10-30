@@ -19,3 +19,6 @@ En la otra ejecutaremos el comando:
 ```
 
 Tras esto debería abrirse la máquina virtual instalada y ejecutar el análisis.
+
+
+**__Para cualquier duda consulta la [documentación oficial](https://cuckoo.sh/docs/index.html) de Cuckoo.__** 
